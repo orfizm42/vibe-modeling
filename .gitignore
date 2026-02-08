@@ -1,0 +1,6 @@
+output/
+*.stl
+*.step
+*.3mf
+__pycache__/
+*.pyc

@@ -23,8 +23,8 @@ while [[ $# -gt 0 ]]; do
             echo "  -h, --help      このヘルプを表示"
             echo ""
             echo "Examples:"
-            echo "  ./vibe.sh examples/test-box.py"
-            echo "  ./vibe.sh --preview examples/test-box.py"
+            echo "  ./vibe.sh projects/test-box.py"
+            echo "  ./vibe.sh --preview projects/test-box.py"
             exit 0
             ;;
         -*)
